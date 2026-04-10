@@ -36,9 +36,10 @@ Dedicated to building scalable AI solutions and automated agents. Currently focu
 
 ---
 
+
 ### 📈 Metrics & Contributions
-![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardik-107&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik-107&layout=compact&theme=tokyonight)
+![Hardik's GitHub stats](https://github-readme-stats.shion.dev/api?username=hardik-107&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=hardik-107&layout=compact&theme=tokyonight)
 
 ---
 
