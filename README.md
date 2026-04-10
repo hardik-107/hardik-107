@@ -44,5 +44,5 @@ Dedicated to building scalable AI solutions and automated agents. Currently focu
 ---
 
 ### 📫 Connect with me:
-[LinkedIn]# (www.linkedin.com/in/hardik-tiwari-504137343)| AI & Machine Learning Engineer 
+[LinkedIn](www.linkedin.com/in/hardik-tiwari-504137343) | hardiktiwari107@gmail.com
 
